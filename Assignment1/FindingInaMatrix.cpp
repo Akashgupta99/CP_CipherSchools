@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//tested for n = (1, 15, 16, 17, 20, 28, 29) and passed all
-//failed for n = 0
+//tested for n = (0, 1, 15, 16, 17, 20, 28, 29) and passed all
 
 bool FindinMatrix(const vector<vector<int>> &vec, const int &n)
 {
